@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Francisco%20Curbelo%20Robaina&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20DAM&descAlignY=55&descSize=18"/>
 </p>
 <p align="center">
-  <img src="assets/foto.jpg" alt="Francisco Curbelo Robaina" width="180"/>
+  <img src="assets/retrato.png" alt="Retrato de Francisco Curbelo Robaina" width="200"/>
 </p>
 
 <p align="center">
@@ -160,38 +160,21 @@ También he participado en una aplicación interna con PHP y Laravel.
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## Mapa de competencias
+## Proyecto destacado
 
-```mermaid
-graph LR
-    A["Desarrollo de software"] --> B["Programación en Java"]
-    A --> C["Bases de datos SQL"]
-    A --> D["HTML5 / CSS3"]
+<div align="center">
 
-    E["Sistemas y soporte"] --> F["Windows y Linux"]
-    E --> G["Hardware"]
-    E --> H["Redes y soporte a usuarios"]
+<a href="https://github.com/fcuurbeelo/Gestor_Alumnos_Java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fcuurbeelo&repo=Gestor_Alumnos_Java&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Gestor de alumnos en Java, proyecto de DAM"/>
+</a>
 
-    I["Herramientas"] --> J["Git y GitHub"]
-    I --> K["IntelliJ IDEA"]
+Mi gestor de alumnos en Java: un proyecto de consola de DAM.
 
-    B --> M["Proyectos de DAM"]
-    C --> M
-    D --> M
-    J --> M
-    K --> M
-
-    style A fill:#0D1117,stroke:#58A6FF,color:#58A6FF
-    style E fill:#0D1117,stroke:#FF6B35,color:#FF6B35
-    style I fill:#0D1117,stroke:#C678DD,color:#C678DD
-    style M fill:#0D1117,stroke:#00FF00,color:#00FF00
-```
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
-
-
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -263,31 +246,16 @@ Ahora estoy centrado en Java y bases de datos. Puedes ver mi [gestor de alumnos 
 
 
 
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fcuurbeelo&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=5"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=fcuurbeelo&theme=default&hide_border=true&cache_bust=5"/>
-</picture>&nbsp;&nbsp;<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fcuurbeelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=5"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcuurbeelo&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=5"/>
-</picture>
 
-</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-## Terreno 3D de contribuciones
+## Mis contribuciones
 
-<div align="center">
-
-El terreno 3D todavía no está configurado en mi cuenta.
-<!-- Activar el workflow de contribuciones 3D antes de añadir su imagen. -->
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcuurbeelo&theme=tokyonight" alt="Gráfico real de contribuciones de Francisco en GitHub durante el último año"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -314,3 +282,4 @@ El terreno 3D todavía no está configurado en mi cuenta.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
 </div>
+
