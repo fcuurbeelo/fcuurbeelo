@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Francisco%20Curbelo%20Robaina&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20DAM&descAlignY=55&descSize=18"/>
 </p>
 <p align="center">
-  <img src="assets/retrato.png" alt="Retrato de Francisco Curbelo Robaina" width="200"/>
+  <img src="assets/fran.png" alt="Retrato de Francisco Curbelo Robaina" width="200"/>
 </p>
 
 <p align="center">
